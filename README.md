@@ -1,6 +1,5 @@
-# Smart-Farm-Monitoring-Red-Node
+# Smart-Farm/Garden-Monitoring-Red-Node 🌱  
 It is a Smart Dashboard which can be used to monitor your Farms, Gardens and Aquariums. 
-# Smart Garden Monitoring System 🌱  
 This project implements a **Smart Garden Monitoring System** using **Node-RED** for automating irrigation and improving farming efficiency.  
 
 ## Features  
